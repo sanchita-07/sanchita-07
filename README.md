@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchita-07&label=Profile%20views&color=0e75b6&style=flat" alt="sanchita-07" /> </p>
 
-- 🔭 I’m currently working as **Kubernetes 1.27 Release Team Shadow**
+- 🔭 I’m currently serving as **Kubernetes 1.28 Release Notes Lead**
 - 🌱 I’m currently learning **Cloud Native and Technologies**
 - 👨‍💻 Learning by contributing in Open Source.
 - 📫 How to reach me **sanchita.mishra1718@gmail.com**
